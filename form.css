@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700&display=swap")
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+  box-sizing: border-box;
+  outline:none;
+  font-family: "Poppins" , "sans-serif";
+}
+
+body{
+  background: rgba(242,219,245,1);
+}
+
+h2{
+  text-align: center;
+  font-family:"Poppins";
+  color: white;
+  font-size: 80px;
+  margin-top: 10%;
+}
+
+#twitter {
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 20px; 
+    width: 350px;
+    height: 13px;
+    position: fixed; 
+    left: 30%; 
+    top: 42%;
+    font-family: "Poppins"; 
+    font-size: 28px;
+    color: #CED9FF;
+}
+
+.q2 {
+    font-family: "Poppins"; 
+    font-size: 30px;
+    color: white;
+    position:fixed;
+    left: 30%; 
+    top: 57%;
+}
+
+.interest, .interest option {
+    border-radius: 25px;
+    width: 40px;
+    height: 13px;
+    position: fixed; 
+    left: 71%; 
+    top: 57%;
+    font-family: "Poppins"; 
+    font-size: 28px;
+    color: #CED9FF;
+}
+
+.txt {
+  font-family: "Poppins"; 
+  font-size: 28px;
+  color: white;
+  border-radius: 25px;
+  width: 40px;
+  height: 13px;
+  position: fixed; 
+  left: 90%; 
+  top: 77%;
+  text-align: center;
+
+}
