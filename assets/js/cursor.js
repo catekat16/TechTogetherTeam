@@ -4,7 +4,7 @@ const cursorSpan = document.querySelector(".cursor");
 const textArray = [
   "your pen pal",
   "your new best friend",
-  "your perfect personality match",
+  "your perfect match",
 ];
 const typingDelay = 100;
 const erasingDelay = 100;
