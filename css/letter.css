@@ -1,0 +1,178 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v199_0 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(224, 237, 253, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v199_1 {
+  width: 631px;
+  height: 1402px;
+  background: url("../images/v199_1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 36px;
+  left: 404px;
+  overflow: hidden;
+}
+.v199_2 {
+  width: 631px;
+  height: 100%;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v199_3 {
+  width: 458px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 63px;
+  left: 74px;
+  font-family: Yeon Sung;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v199_17 {
+  width: 226px;
+  height: 64px;
+  background: url("../images/v199_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 634px;
+  left: 1116px;
+  overflow: hidden;
+}
+.v199_18 {
+  width: 226px;
+  height: 64px;
+  background: rgba(129, 150, 247, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v199_19 {
+  width: 165px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v199_21 {
+  width: 485px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 307px;
+  left: 475px;
+  font-family: Yeon Sung;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v199_22 {
+  width: 493px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 426px;
+  left: 475px;
+  font-family: Yeon Sung;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v199_23 {
+  width: 461px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 631px;
+  left: 475px;
+  font-family: Yeon Sung;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v199_24 {
+  width: 478px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 159px;
+  left: 478px;
+  font-family: Yeon Sung;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v196_27 {
+  width: 226px;
+  height: 64px;
+  background: url("../images/v196_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  left: 1136px;
+  overflow: hidden;
+}
+.v196_25 {
+  width: 226px;
+  height: 64px;
+  background: rgba(129, 150, 247, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v196_26 {
+  width: 165px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 65px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}

@@ -8,34 +8,36 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
   </head>
   <body>
-    <div class="container">
-      <div class="wrapper">
-        <div class="image">
-          <img src="assets/img/filler.png" alt="" />
-          <!--<img src="" alt="" />-->
-        </div>
-        <div class="content">
-          <div class="icon">
-            <i class="fas fa-cloud-upload-alt"></i>
+    <div class="v199_0">
+      <div class="container">
+        <div class="wrapper">
+          <div class="image">
+            <img src="assets/img/filler.png" alt="" />
+            <!--<img src="" alt="" />-->
           </div>
-          <div class="text">No file chosen, yet!</div>
+          <div class="content">
+            <div class="icon">
+              <i class="fas fa-cloud-upload-alt"></i>
+            </div>
+            <div class="text">No file chosen, yet!</div>
+          </div>
+          <div id="cancel-btn">
+            <i class="fas fa-times"></i>
+          </div>
+          <div class="file-name">File name here</div>
         </div>
-        <div id="cancel-btn">
-          <i class="fas fa-times"></i>
-        </div>
-        <div class="file-name">File name here</div>
+        <button onclick="defaultBtnActive()" id="custom-btn">
+          Select your video
+        </button>
+        <input id="default-btn" type="file" hidden />
       </div>
-      <button onclick="defaultBtnActive()" id="custom-btn">
-        Select your video
-      </button>
-      <input id="default-btn" type="file" hidden />
+      <a href="envelope.html">
+        <div class="v196_27">
+          <div class="v196_25"></div>
+          <span class="v196_26">Next >></span>
+        </div>
+      </a>
     </div>
-    <a href="index.html"
-      ><div class="nextbutton">
-        <div class="nextbuttonstyle"></div>
-        <span class="nextbuttontext">Next >></span>
-      </div></a
-    >
     <script>
       const wrapper = document.querySelector(".wrapper");
       const fileName = document.querySelector(".file-name");

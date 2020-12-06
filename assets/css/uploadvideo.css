@@ -130,3 +130,56 @@ body {
   font-size: 20px;
   text-align: left;
 }
+.v196_27 {
+  width: 226px;
+  height: 64px;
+  background: url("../images/v196_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  left: 1136px;
+  overflow: hidden;
+}
+.v196_25 {
+  width: 226px;
+  height: 64px;
+  background: rgba(129, 150, 247, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v196_26 {
+  width: 165px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 65px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v196_25 {
+  width: 226px;
+  height: 64px;
+  background: rgba(224, 237, 253, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
