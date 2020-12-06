@@ -36,4 +36,4 @@ With a machine Learning model using a Kaggle dataset to predict the personality 
 * Option for job/internship search and mentorship based on interests and career directions 
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/OBmm0BHv0m.gif" height=450><br>
+<img src="http://g.recordit.co/TZgFy0B1Mf.gif" height=450><br>
