@@ -13,7 +13,7 @@ With a machine Learning model using a Kaggle dataset to predict the personality 
 * Flask is used in the backend to deploy the machine learning model on the website and collect data from the user.
 
 ## Challenges we ran into
-* Ppeople located in different timezones, scheduling meets and passing on work took good documentation
+* People located in different timezones, scheduling meets and passing on work took good documentation
 * Getting accuracy in the Machine Learning model was difficult, since it used unclean textual data and required data processing
 * Attempts was made to use the Figma for HTML plugin - but that gave very bad results. So the website was coded from scratch.
 
